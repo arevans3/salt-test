@@ -1,0 +1,2 @@
+git:
+  garbage: whatever
