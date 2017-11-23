@@ -1,6 +1,6 @@
 #!yaml|gpg
 
-git:
+test:
   echo_cmd: |
     -----BEGIN PGP MESSAGE-----
     Version: GnuPG v1
