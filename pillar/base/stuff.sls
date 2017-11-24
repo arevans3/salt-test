@@ -1,2 +1,2 @@
 test:
-  garbage: whatever
+  something: other string
